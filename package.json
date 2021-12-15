@@ -1,0 +1,27 @@
+{
+  "name": "css-corp-batch-2",
+  "version": "1.0.0",
+  "description": "react an javascript training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pallavi-188/css-corp-batch-2.git"
+  },
+  "keywords": [
+    "react",
+    "javascript",
+    "es6"
+  ],
+  "author": "Pallavi Muni (pallavimuni1996@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pallavi-188/css-corp-batch-2/issues"
+  },
+  "homepage": "https://github.com/Pallavi-188/css-corp-batch-2#readme",
+  "devDependencies": {
+    "webpack": "^5.65.0"
+  }
+}
